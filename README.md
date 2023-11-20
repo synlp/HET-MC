@@ -4,6 +4,10 @@ This is the implementation of [Summarizing Medical Conversations via Identifying
 
 You can e-mail Yuanhe Tian at `yhtian@uw.edu`, if you have any questions.
 
+## 🔥 News 🔥
+
+We recently released a large language model for the Chinese medical domain named ChiMed-GPT, which is trained on the medical dialog data. For more information, please visit our [GitHub Repo](https://github.com/synlp/ChiMed-GPT).
+
 ## Citation
 
 If you use or extend our work, please cite our paper at COLING 2020.
